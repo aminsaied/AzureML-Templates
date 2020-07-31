@@ -1,13 +1,5 @@
-# AzureML Templates
+# ScriptRunConfig
 
-A collection of templates for basic Azure ML scenarios.
+Represents configuration information for submitting a training run in Azure Machine Learning.
 
-## ScriptRunConfig
-
-- `run.py`: Control plane script using `ScriptRunConfig` to launch `script.py`.
-- `script.py`: Template script
-
-## Estimator
-
-- `run.py`: Control plane script using `Estimator` to launch `script.py`.
-- `script.py`: Template script
+See the [docs](https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.scriptrunconfig?view=azure-ml-py).
