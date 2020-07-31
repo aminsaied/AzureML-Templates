@@ -14,7 +14,5 @@ A collection of templates for basic Azure ML scenarios.
 
 ## Dataset
 
- in a script run.
-
 - `run.py`: Use Dataset to make data available in a `ScriptRunConfig` launching `script.py`.
 - `script.py`: Template script
